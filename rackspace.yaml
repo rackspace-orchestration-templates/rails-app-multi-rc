@@ -65,7 +65,7 @@ instructions: |
   PuTTY](http://www.rackspace.com/knowledge_center/article/logging-in-with-a-ssh-private-key-on-windows).
 user-input-required: true
 description: |
-  ####Multiple Linux servers - RCv3
+  #### Multiple Linux servers - RCv3
   Multiple load balanced Linux servers running [Rails](http://rubyonrails.org/)
   and a backend database server running [MySQL 5.5](http://www.mysql.com/) or
   [Postgres 9.1](http://www.postgresql.org/). This deployment is intended for
